@@ -1,4 +1,4 @@
-# Hex-to-UIColor Converter
+# Hex-to-UIColor Converter [![Build Status](https://travis-ci.com/juniorRubyist/UIColorHex.svg?branch=master)](https://travis-ci.com/juniorRubyist/UIColorHex)
 
 Written in Python because why not?
 
